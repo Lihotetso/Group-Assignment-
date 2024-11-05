@@ -1,11 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    backgroung_color:blue;
+    backgroung-color:navy pink;
     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
-
 header {
     font-family:arial,'Times New Roman', Times, serif;
     background: #f4a261;
